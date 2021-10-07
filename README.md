@@ -63,10 +63,18 @@ Foi recebido como dados para realizar a analise, 17 tabelas no formato xls, esse
 Para entender melhor esses gráficos, recomendo olhar o notebook desafio2_analise.
 
 **Relação entre domicílio rural ou urbano e saneamento inadequado**
-<br>
-<img style="background:white;padding:10px" height="350" src="imgs/scatterplot.png">
+<br/>
 
+<div style="background:white;padding:10px">
+<img  height="350" src="imgs/scatterplot.png">
+</div>
+
+<br/>
 
 **Intervalos da renda média por domicilio definido em classes relacionado com o total de habitantes**
-<br>
+
+<br/>
+
+<div style="background:white;padding:10px">
 <img style="background:white;padding:10px" height="500" src="imgs/barplot.png">
+</div>
