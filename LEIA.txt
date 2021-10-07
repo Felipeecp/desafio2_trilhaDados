@@ -1,0 +1,11 @@
+Para ver a solução olhar diretamento o notebook referente a analise.
+
+descrição dos notebooks:
+- desafio2_tab1: tratamento de dados da tabela 1
+- desafio2_tab7: tratamento de dados da tabela 7
+- desafio2_tab8: tratamento de dados da tabela 8
+- desafio2_analise: fazendo analise entre tabelas e apresentado resultados
+
+pastas:
+- Dados: todas as tabelas
+- dadosLimpos: tabelas geradas ao final da limpeza em formato csv
