@@ -66,7 +66,7 @@ Para entender melhor esses gráficos, recomendo olhar o notebook desafio2_analis
 <br/>
 
 <div style="background:white;padding:10px">
-<img  height="350" src="imgs/scatterplot.png">
+<img src="imgs/graph1.png">
 </div>
 
 <br/>
@@ -76,5 +76,5 @@ Para entender melhor esses gráficos, recomendo olhar o notebook desafio2_analis
 <br/>
 
 <div style="background:white;padding:10px">
-<img style="background:white;padding:10px" height="500" src="imgs/barplot.png">
+<img style="background:white;padding:10px" src="imgs/graph2.png">
 </div>
