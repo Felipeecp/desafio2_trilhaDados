@@ -18,7 +18,7 @@ Foi recebido como dados para realizar a analise, 17 tabelas no formato xls, esse
 * <a href="https://pandas.pydata.org">Pandas</a>
 * <a href="https://numpy.org">Numpy</a>
 * <a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html">Matplotlyb.pyplot</a>
-* <a href="https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html">Seaborn</a>
+* <a href="https://seaborn.pydata.org">Seaborn</a>
 
 <hr>
 
